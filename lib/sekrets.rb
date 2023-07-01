@@ -366,7 +366,7 @@ BEGIN {
 
       def dependencies
         {
-          'highline' => [ 'highline' , ' ~> 1.6'   ] ,
+          'highline' => [ 'highline' , ' ~> 2.0.3'   ] ,
           'map'      => [ 'map'      , ' ~> 6.3'   ] ,
           'fattr'    => [ 'fattr'    , ' ~> 2.2'   ] ,
           'coerce'   => [ 'coerce'   , ' ~> 0.0.3' ] ,

@@ -39,7 +39,7 @@ Gem::Specification::new do |spec|
   spec.test_files = nil
 
   
-    spec.add_dependency(*["highline", " ~> 1.6"])
+    spec.add_dependency(*["highline", " ~> 2.0.3"])
   
     spec.add_dependency(*["map", " ~> 6.3"])
   
